@@ -1,7 +1,7 @@
 ### Here is What I'm Working On! 👋
 
 
-- 🔭 I’m currently working on ... A new portfolio site
+- 🔭 I’m currently working on ... A mars weather app
 - 🌱 I’m currently learning ... React.js
 - 🤔 I’m looking for help with ... Git/Version Control
 - 💬 Ask me about ... Anything. No harm in asking
