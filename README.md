@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on ... An AirBNB website
-- 🌱 I’m currently learning ... React.js
+- 🌱 I’m currently learning ... JQuery
 - 🤔 I’m looking for help with ... Git/Version Control
 - 💬 Ask me about ... Anything. No harm in asking
 - 👨‍💻 All of my projects are available at: ... https://rcreactportfolio.netlify.app/
