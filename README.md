@@ -6,6 +6,4 @@
 - 🤔 I’m looking for help with ... Git/Version Control
 - 💬 Ask me about ... Anything. No harm in asking
 - 👨‍💻 All of my projects are available at: ... https://rcreactportfolio.netlify.app/
-- 📫 Reach me at: ... cookroland56@gmail.com 
-
-
+- 📫 Reach me at: ... cookroland56@gmail.com / Linkedin https://www.linkedin.com/in/roland-cook-249708216/
