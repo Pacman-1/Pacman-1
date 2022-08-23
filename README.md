@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pacman-1
-- 🔭 I’m currently working on ... Portfolio Website 
+- 🔭 I’m currently working on ... Cosmos(First Portfolio Project) 
 - 🌱 I’m currently learning ... React, Photoshop
 - 🤔 I’m looking for help with ... Git/Version Control
 - 💬 Ask me about ... Anything. No harm in asking
